@@ -19,4 +19,4 @@ Usage of ./gdriveown:
 
 ## License
 
-GPL3, see [gpl.txt](gpl.txt)
+GPL3, see [LICENSE](LICENSE)
