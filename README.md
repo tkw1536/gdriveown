@@ -1,4 +1,4 @@
-# gdrivebackup
+# gdriveown
 
 This is a quick tool to transfer a google drive file owner from one user to another. 
 Needs a service account with domain-wide delegation enabled. 
